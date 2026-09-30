@@ -7,12 +7,12 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "hardhat": "^2.22.15",
+    "hardhat": "^3.18.0",
     "hardhat-contract-sizer": "^2.10.0",
     "prettier-plugin-solidity": "^1.4.1"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+    "@nomicfoundation/hardhat-toolbox": "^7.0.0"
   },
   "scripts": {
     "compile": "npx hardhat compile",
